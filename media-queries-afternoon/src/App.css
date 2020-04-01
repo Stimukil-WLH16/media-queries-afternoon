@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+}
+
+.header {
+  display: flex;
+  width: 100vw;
+  height: 10vw;
+  background-color: darkslategray;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  position: relative;
+}
+
